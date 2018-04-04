@@ -6,3 +6,4 @@ Time,money,social relationship,skill...
 社会关系维持
 职业技能
 。。。。。。
+
